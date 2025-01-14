@@ -1,0 +1,18 @@
+2025-01-10 11:14:37 INFO  [requestId=, userId=] o.s.boot.SpringApplication - Starting SpringApplication v3.3.4 using Java 23 with PID 2908 (C:\Users\nzhai\.m2\repository\org\springframework\boot\spring-boot\3.3.4\spring-boot-3.3.4.jar started by nzhai in C:\Users\nzhai\Downloads\crud)
+2025-01-10 11:14:37 INFO  [requestId=, userId=] o.s.boot.SpringApplication - No active profile set, falling back to 1 default profile: "default"
+2025-01-10 11:14:37 ERROR [requestId=, userId=] o.s.boot.SpringApplication - Application run failed
+java.lang.IllegalArgumentException: Sources must not be empty
+	at org.springframework.util.Assert.notEmpty(Assert.java:381)
+	at org.springframework.boot.SpringApplication.prepareContext(SpringApplication.java:430)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
+	at org.springframework.boot.SpringApplication.main(SpringApplication.java:1379)
+2025-01-10 11:51:02 INFO  [requestId=, userId=] o.s.boot.SpringApplication - Starting SpringApplication v3.3.4 using Java 23 with PID 27876 (C:\Users\nzhai\.m2\repository\org\springframework\boot\spring-boot\3.3.4\spring-boot-3.3.4.jar started by nzhai in C:\Users\nzhai\Downloads\crud)
+2025-01-10 11:51:02 INFO  [requestId=, userId=] o.s.boot.SpringApplication - No active profile set, falling back to 1 default profile: "default"
+2025-01-10 11:51:02 ERROR [requestId=, userId=] o.s.boot.SpringApplication - Application run failed
+java.lang.IllegalArgumentException: Sources must not be empty
+	at org.springframework.util.Assert.notEmpty(Assert.java:381)
+	at org.springframework.boot.SpringApplication.prepareContext(SpringApplication.java:430)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
+	at org.springframework.boot.SpringApplication.main(SpringApplication.java:1379)
